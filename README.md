@@ -5,7 +5,7 @@ To get started with the Virtual Meeting project, follow these steps:
 
 Clone the repository:
 
-bash
+#bash
 Copy code
 git clone https://github.com/Janmitsinh/virtual-meeting.git
 Navigate to the project directory:
