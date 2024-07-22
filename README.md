@@ -4,23 +4,15 @@ Virtual Meeting Welcome to the Virtual Meeting project! 🎉  Virtual Meeting is
 To get started with the Virtual Meeting project, follow these steps:
 
 Clone the repository:
-
-#bash
-Copy code
 git clone https://github.com/Janmitsinh/virtual-meeting.git
+
 Navigate to the project directory:
-
-bash
-Copy code
 cd virtual-meeting
+
 Install dependencies:
-
-bash
-Copy code
 npm install
-Start the development server:
 
-bash
-Copy code
+Start the development server:
 npm start
+
 Open your browser and navigate to http://localhost:3000 to see the application in action.
